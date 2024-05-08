@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<flowers>
+    <flower>
+        <name>Rhododendron</name>
+        <type>Wild</type>
+        <description> Rhododendron, meaning “red tree,” refers to the red flowers and woody growth of some species.</description>
+        <url>https://www.britannica.com/plant/rhododendron</url>
+        <image>rhododendron.jpg</image>
+    </flower>
+    <flower>
+        <name>Bellflower</name>
+        <type>Wild</type>
+        <description>Tall bellflower, or American bellflower is found in the moist woodlands of North America.</description>
+        <url>https://www.britannica.com/plant/bellflower-plant</url>
+        <image>bellflower.jpg</image>
+    </flower>
+    <flower>
+        <name>Orchid</name>
+        <type>Domestic</type>
+        <description>Orchidaceae is a member of Asparagales, an order of monocotyledonous flowering plants that also includes the asparagus and iris families.</description>
+        <url>https://www.britannica.com/plant/orchid</url>
+        <image>orchid.jpg</image>
+    </flower>
+    <flower>
+        <name>Rose</name>
+        <type>Domestic</type>
+        <description>Rose, (genus Rosa), genus of some 100 species of perennial shrubs in the rose family (Rosaceae).</description>
+        <url>https://www.britannica.com/plant/rose-plant</url>
+        <image>rose.jpg</image>
+    </flower>
+    <flower>
+        <name>Gerbera Daisy</name>
+        <type>Domestic</type>
+        <description> Other daisies include the Gerbera daisy (Gerbera jamesonii) of the floral industry,
+            marguerite daisy (Argyranthemum frutescens), painted lady daisy (Tanacetum coccineum), and
+            pyrethrum daisy (Chrysanthemum cinerariifolium) and various members of the genera Chrysanthemum and Erigeron.
+        </description>
+        <url>https://www.britannica.com/plant/daisy</url>
+        <image>gerbera.jpg</image>
+    </flower>
+    <flower>
+        <name>Lily</name>
+        <type>Wild</type>
+        <description> Lilies are among the oldest cultivated plants - the ancients raised the bulbs of this species for food.</description>
+        <url>https://www.britannica.com/plant/lily</url>
+        <image>lily.jpg</image>
+    </flower>
+</flowers>
